@@ -85,12 +85,6 @@ This will be a tech screening. You'll be tested on:
  
 **IMPORTANT: After your interview**: Please fill up this feedback form here: [https://enthu.ai/contact-us/](https://enthu.ai/contact-us/). This will help us improve the interview process with your ideas and suggestions.
 
-**Reference Check:**
-
-You need to give us of atleast 3 people who have worked with you in the past, ideally this could be: 
-- Manger who you were reporting to in your last company. This can be managers of several companies who you've worked with in the last few years.  
-- A peer who can vouch for you. 
-
 ### FAQ
 
 **Where are you based?**
